@@ -1,0 +1,22 @@
+{
+    "name": "hack3r-theme",
+    "displayName": "Hack3r Theme",
+    "description": "1337, albeit, simplistic theme for all your hacking needs.",
+    "version": "0.0.1",
+    "publisher": "Jac21",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hack3r",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hack3r-color-theme.json"
+            }
+        ]
+    }
+}
