@@ -9,4 +9,4 @@ This Visual Studio Code extension provides all that you need for those times whe
 ## Usage
 
 CTRL+K, CTRL+T, in rapid succession and select 'Hack3r.'
-Keep F11 or CTRL+K, Z for maximum effect.
+Keep F11 or CTRL+K, Z in mind for maximum effect.
