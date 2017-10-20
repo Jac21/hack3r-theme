@@ -2,9 +2,26 @@
 	"name": "Hack3r",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#000000",
-		"editor.foreground": "#00EF1C",
+		// Contrast Colors
+		"contrastActiveBorder": "#00EF1C",
+		"contrastBorder": "#00EF1C",
+
+		// Base Colors
 		"focusBorder": "#00EF1C",
+		"widget.shadow": "#000000",
+		"selection.background": "#000000",
+		"editor.foreground": "#00EF1C",
+
+		// Button Control
+		"button.background": "#000000",
+		"button.foreground": "#00EF1C",
+
+		// Dropdown Control
+		"dropdown.background": "#000000",
+		"dropdown.border": "#00EF1C",
+		"dropdown.foreground": "#00EF1C",
+		
+		"editor.background": "#000000",
 		"activityBarBadge.background": "#FF0D00",
 		"sideBarTitle.foreground": "#00EF1C",
 		"titleBar.activeBackground": "#000000",
@@ -15,7 +32,6 @@
 		"activityBar.background": "#000000",
 		"activityBar.dropBackground": "#000000",
 		"activityBar.border": "#00EF1C",
-		"contrastBorder": "#00EF1C",
 		"editorCursor.background": "#000000",
 		"editor.selectionForeground": "#000000",
 		"editor.selectionHighlightBackground": "#000000",
@@ -33,7 +49,6 @@
 		"tab.inactiveBackground": "#000000",
 		"tab.unfocusedActiveBorder": "#00EF1C",
 		"tab.activeForeground": "#00EF1C",
-		"dropdown.border": "#00EF1C",
 		"editorBracketMatch.border": "#00EF1C",
 		"editorOverviewRuler.border": "#00EF1C",
 		"panel.border": "#00EF1C",
