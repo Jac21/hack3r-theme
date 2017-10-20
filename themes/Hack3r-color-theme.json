@@ -40,6 +40,21 @@
 		"badge.foreground": "#00EF1C",
 		"badge.background": "#000000",
 
+		// Progress Bar
+		"progressBar.background": "#000000",
+
+		// Lists and Trees
+		"list.activeSelectionBackground": "#000000",
+		"list.activeSelectionForeground": "#00EF1C",
+		"list.dropBackground": "#000000",
+		"list.focusBackground": "#000000",
+		"list.highlightForeground": "#00EF1C",
+		"list.hoverBackground": "#000000",
+		"list.inactiveSelectionBackground": "#000000",
+		"list.inactiveSelectionForeground": "#00EF1C",
+		"list.hoverForeground": "#00EF1C",
+		"list.focusForeground": "#00EF1C",
+
 		"editor.background": "#000000",
 		"activityBarBadge.background": "#000000",
 		"activityBar.foreground": "#00EF1C",
