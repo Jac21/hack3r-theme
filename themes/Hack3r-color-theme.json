@@ -20,9 +20,30 @@
 		"dropdown.background": "#000000",
 		"dropdown.border": "#00EF1C",
 		"dropdown.foreground": "#00EF1C",
-		
+
+		// Input Control
+		"input.background": "#000000",
+		"input.border": "#00EF1C",
+		"input.foreground": "#00EF1C",
+		"input.placeholderForeground": "#00EF1C",
+		"inputOption.activeBorder": "#00EF1C",
+		"inputValidation.errorBackground": "#FF0D00",
+		"inputValidation.errorBorder": "#FF0D00",
+
+		// Scroll Bar Control
+		"scrollbar.shadow": "#000000",
+		"scrollbarSlider.activeBackground": "#00EF1C",
+		"scrollbarSlider.background": "#000000",
+		"scrollbarSlider.hoverBackground": "#00EF1C",
+
+		// Badge
+		"badge.foreground": "#00EF1C",
+		"badge.background": "#000000",
+
 		"editor.background": "#000000",
-		"activityBarBadge.background": "#FF0D00",
+		"activityBarBadge.background": "#000000",
+		"activityBar.foreground": "#00EF1C",
+		"activityBarBadge.foreground": "#00EF1C",
 		"sideBarTitle.foreground": "#00EF1C",
 		"titleBar.activeBackground": "#000000",
 		"titleBar.border": "#00EF1C",
